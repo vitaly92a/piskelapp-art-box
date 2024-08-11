@@ -4,7 +4,7 @@ Piskel drawing art collection
 
 ## What is Piskel?
 
-Piskel (https://piskelapp.com) is a free online tool for creating pixel art and animated sprites. It offers a simple and intuitive interface for designing pixel art, frame-by-frame animations, and GIFs. With Piskelapp, you can:
+Piskel (https://piskelapp.com) is a free online tool for creating pixel art and animated sprites. It offers a simple and intuitive interface for designing pixel art, frame-by-frame animations, and GIFs. With Piskel, you can:
 
 - **Create pixel art and animated sprites** from scratch or by importing existing images
 - **Edit and manipulate pixels** with various drawing tools and color palettes
