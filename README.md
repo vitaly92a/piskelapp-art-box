@@ -17,3 +17,4 @@ Piskel is designed to be easy to use for both beginners and experienced pixel ar
 ## Art Gallery
 
 - [Deal With It Glasses](./box/Deal_with_it_glasses.piskel) - "Deal With It" glasses
+- [Stop Sign](./box/Stop_sign.piskel) - Stop Sign
