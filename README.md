@@ -18,3 +18,4 @@ Piskel is designed to be easy to use for both beginners and experienced pixel ar
 
 - [Deal With It Glasses](./box/Deal_with_it_glasses.piskel) - "Deal With It" glasses
 - [Stop Sign](./box/Stop_sign.piskel) - Stop Sign
+- [Heart scarlet animation](./box/Heart_scarlet_animation.piskel) - Animation of scarlet color heart
